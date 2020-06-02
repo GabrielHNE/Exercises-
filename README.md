@@ -1,3 +1,19 @@
-# Repositório com exercícios da lista de Técnicas de programação.
+# 📖 Repositório com exercícios da faculdade de Ciência da Computação.
 
-Um simples repositório com diversos exercícios de uma lista de programação.
+Este repositório contém diversos exercícios que foram propostos durante a graduação em Ciência da Computação;
+
+### 💻 Linguagens utilizadas
+
+- C
+- C++
+- Java
+- Python
+- JavaScript
+- R
+
+### Matérias
+
+- Técnicas de Programação
+- Laboratório de Programação
+- Estatística
+- Matemática Discreta
